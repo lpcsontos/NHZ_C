@@ -1,0 +1,11 @@
+Cica 280
+Peti 240
+Latvany 220
+Duna 200
+Pest 180
+Buda 180
+a 30
+t 180
+tita 12
+asd 10
+alma 9
