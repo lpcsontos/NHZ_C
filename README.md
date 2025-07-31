@@ -1,4 +1,18 @@
+This mini game is the copy of the retro game Space Invaders. The player controls a small spaceship to shoot down the aliens.
+As more and more of them gets shot down the faster they are coming down to Earth. The player gets points after every enemy.
+With its score you can get on the highscore list. The different difficulties have different highscore lists.
+
+
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/89be23f6-fe59-401b-879d-dba2177f7b33" />
+
+
+
+
+
+
+
+
 
 
 
