@@ -1,3 +1,8 @@
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/89be23f6-fe59-401b-879d-dba2177f7b33" />
+
+
+
+
 This project uses econio!! Its licnese and readme file is located in the license folder, the header file is in the headers folder.
 
 Sound folder is empty, as windows version do not work, which use the sounds.
