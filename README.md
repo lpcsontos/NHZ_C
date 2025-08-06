@@ -29,7 +29,7 @@ Build description:
         necessary steps for the build:
             -step 1: if build directory is included, then skip step 2
             -step 2: create build directory in the same directory as the main.c file
-            -step 3: run the build command in the same directory as the main.c file
+            -step 3: run the build command or just write make in the same directory as the main.c file
 
 
     -windows build(not working right now):
