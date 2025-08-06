@@ -1,5 +1,0 @@
-Csontos Levente Péter: Space Invaders
-
-A programom a retro Space Invaders játékon alapul. A játékos itt egy ágyúval ellátott űrhajót irányít, ahol el kell pusztítania az űrlényeket,
-míg azok egyre közelebb kerülnek és minden egyes társuk halálával gyorsabban mozognak felé. A játékos minden kilőtt űrlény után pontot kap,
-amivel fel tud kerül egy dicsőséglistára. A különböző nehézségekhez más-más dicsőséglista tartozik, ahogy más-más számú ellenséggel harcol a játékos.
